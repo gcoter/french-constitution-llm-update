@@ -152,7 +152,9 @@ L'article 7 de la Constitution française est déjà bien structuré mais pourra
 
 </details>
 
-## ARTICLE 8. Le Président de la République nomme le Premier ministre après consultation avec le Parlement. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement ou à la majorité des deux tiers du Parlement usant d'une motion de censure constructive nommant un nouveau candidat au poste de Premier ministre. Sur la proposition du Premier ministre, validée par le Parlement, il nomme les autres membres du Gouvernement et met fin à leurs fonctions après une durée maximale de trois ans, renouvelable une fois, en fonction de l’évaluation des performances de chaque ministre.
+## ARTICLE 8.
+
+Le Président de la République nomme le Premier ministre après consultation avec le Parlement. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement ou à la majorité des deux tiers du Parlement usant d'une motion de censure constructive nommant un nouveau candidat au poste de Premier ministre. Sur la proposition du Premier ministre, validée par le Parlement, il nomme les autres membres du Gouvernement et met fin à leurs fonctions après une durée maximale de trois ans, renouvelable une fois, en fonction de l’évaluation des performances de chaque ministre.
 
 <details>
 

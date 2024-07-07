@@ -1244,7 +1244,15 @@ L'article 61-1 introduit la question prioritaire de constitutionnalité (QPC), p
 
 </details>
 
-## {'ARTICLE 62': ["Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61 ne peut être promulguée ni mise en application.", "Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure clairement définie par cette décision, laquelle ne peut excéder un délai de six mois. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.", "Les décisions du Conseil constitutionnel ne sont susceptibles d’aucun recours ordinaire. Toutefois, un recours en révision peut être introduit dans des conditions strictement définies par la loi organique, notamment en cas de découverte d'un fait nouveau ou de circonstance exceptionnelle.", 'Les décisions du Conseil constitutionnel s’imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.']}
+## ARTICLE 62.
+
+Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61 ne peut être promulguée ni mise en application.
+
+Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure clairement définie par cette décision, laquelle ne peut excéder un délai de six mois. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.
+
+Les décisions du Conseil constitutionnel ne sont susceptibles d’aucun recours ordinaire. Toutefois, un recours en révision peut être introduit dans des conditions strictement définies par la loi organique, notamment en cas de découverte d'un fait nouveau ou de circonstance exceptionnelle.
+
+Les décisions du Conseil constitutionnel s’imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
 <details>
 
@@ -1752,7 +1760,9 @@ L'article 74-1 traite de la manière dont le Gouvernement peut appliquer ou adap
 
 </details>
 
-## ARTICLE 75. Les citoyens de la République qui ne relèvent pas du statut civil de droit commun mentionné à l'article 34 peuvent conserver leur statut personnel jusqu'à ce qu'ils décident, de manière volontaire et éclairée, de le renoncer. Un cadre clair et accessible doit être mis en place pour informer ces citoyens sur les implications et les processus de cette renonciation, garantissant ainsi leur choix autonome et respecté. L'État s'engage à respecter les diversités culturelles tout en promouvant progressivement l'accès égal au statut civil de droit commun.
+## ARTICLE 75.
+
+Les citoyens de la République qui ne relèvent pas du statut civil de droit commun mentionné à l'article 34 peuvent conserver leur statut personnel jusqu'à ce qu'ils décident, de manière volontaire et éclairée, de le renoncer. Un cadre clair et accessible doit être mis en place pour informer ces citoyens sur les implications et les processus de cette renonciation, garantissant ainsi leur choix autonome et respecté. L'État s'engage à respecter les diversités culturelles tout en promouvant progressivement l'accès égal au statut civil de droit commun.
 
 <details>
 
@@ -1860,7 +1870,9 @@ L'article portant sur la francophonie et les accords d'association est crucial p
 
 </details>
 
-## ARTICLE 87. La République participe au développement de la solidarité et de la coopération entre les États et les peuples ayant le français en partage. Elle œuvre activement au renforcement des échanges culturels, éducatifs, scientifiques, et économiques. La République encourage les initiatives promouvant la diversité linguistique et culturelle ainsi que les valeurs démocratiques et les droits de l'homme.
+## ARTICLE 87.
+
+La République participe au développement de la solidarité et de la coopération entre les États et les peuples ayant le français en partage. Elle œuvre activement au renforcement des échanges culturels, éducatifs, scientifiques, et économiques. La République encourage les initiatives promouvant la diversité linguistique et culturelle ainsi que les valeurs démocratiques et les droits de l'homme.
 
 <details>
 
@@ -1870,7 +1882,9 @@ L'article 87 actuel met l'accent sur la solidarité et la coopération entre les
 
 </details>
 
-## {'ARTICLE 88': "La République peut conclure des accords avec des États qui désirent s'associer à elle pour développer leurs civilisations, dans les domaines économiques, culturels, scientifiques, éducatifs et environnementaux, tout en respectant les principes fondamentaux de la République et les droits de l'homme. Ces accords doivent être soumis à l'approbation du Parlement."}
+## ARTICLE 88.
+
+La République peut conclure des accords avec des États qui désirent s'associer à elle pour développer leurs civilisations, dans les domaines économiques, culturels, scientifiques, éducatifs et environnementaux, tout en respectant les principes fondamentaux de la République et les droits de l'homme. Ces accords doivent être soumis à l'approbation du Parlement.
 
 <details>
 
